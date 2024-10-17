@@ -1,2 +1,3 @@
 python-dotenv
 ffmpeg
+music-tag
